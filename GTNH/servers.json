@@ -1,11 +1,5 @@
 {
     "主服务器CPU炸了-临时服务器（感谢浑元收留）上海": "dasuona.com:25570",
     "(备用,地址北京,Nix赞助)": "hub.nixdorfer.com:25511",
-    "主线-浙江": "zhejiang.dafeimao.net:25570",
-    "30M临时小水管-浙江": "frp-hub.com:25570",
-    "30M临时小水管-石家庄": "frp-own.com:25560",
-    "30M临时小水管-西安": "frp-arm.com:25570",
-    "30M临时小水管-郑州": "frp-jar.com:25570",
-    "30M临时小水管-长沙": "frp-gym.com:25570",
-    "30M临时小水管-合肥": "frp-bag.com:25560"
+    "主线-浙江": "zhejiang.dafeimao.net:25570"
 }
