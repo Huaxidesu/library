@@ -1,0 +1,76 @@
+Anime Galaxy (Ironman)
+~~Stellaris v[4.2-4.3] General Fixes
+Vanilla Basic Optimization
+Higher Influence Cap
+3 Civic Points + More Trait Points/Picks
+Technology Tier Numbers
+Nice Icons
+Nice Icons - Building Tiers
+Coloured Component Slots & Icons
+Colored Pictures
+Colored Traits
+顾问：希铜
+Perfect Chinese Voice Advisor
+Immersive Camera
+Neuro-Sama Advisor
+Chinese sounds plus 中文语音含教程(3.7+)
+【4.0】scboy星际老男孩语音包
+Unlimited Empire Size
+Unconventional Initial Systems
+Technology Tree (for Chinese Language)
+! Immersive Galaxy and Skybox
+Real Space 4.0
+! IBS patch Remove Quadrant
+! IBS Animated Map Icons
+Tidy Tradition
+! Reworked Planetary Ascension
+47 Tradition Slots + 48 AP Slots
+Additional Vanilla Buildings - Unofficial
+Real Space 汉化包（鸽组汉化）
+Gigastructural Engineering & More (4.2)
+UI Overhaul Dynamic
+简单更多区划建筑槽位
+UI Overhaul Dynamic - More Tradition Categories (16)
+UI Overhaul Dynamic - Ascension Slots
+Improved Leaders View (UI)
+UI Overhaul Dynamic + Improved Leaders View
+((( NSC3 - Season 1 )))
+(((-NSC3 Season 1-))) Chinese Translation
+! Immersive Energy Shield
+Amazing Space Battles
+Extra Ship Components NEXT
+ESC NEXT: Overwrites: Component Progression
+ESC NEXT: Overwrites: Global Ship Designs
+ASB Addon: ESC NEXT
+ASB Addon: Shorter Trails
+ASB Addon: More Particles
+Fleet Formation Mod  v3.0
+!Chinese Font CuYuan
+更好的舰船作战AI（better ship behaviors）
+UI Overhaul Dynamic - SpeedDial
+UI Overhaul Dynamic - Extended Topbar for DLCs
+! Dark Blue UI Remake
+UI Overhaul Dynamic + Gigastructural Engineering
+UltraLimit UI: Specimen and Astral Action
+256 Specimen Slots
+UI Overhaul Dynamic - Tiny Outliner
+UI Overhaul Dynamic - Tiny Options
+! Dark Blue UI Universal Patch
+Minimalistic Arrows and Indicators
+Colored Icons
+Colored Map Icons Gigastructural Engineering & NSC2
+Colored Progressbars
+Colored Star Badges 0-10
+Auto Move Unemployed To Synaptic Lathe
+Aggressive Crisis Engine
+! Casako's Framework & Modmenu
+! Better Performance & Utilities
+Shader merge 4.2
+!!Universal Modifier Patch (4.3.*)
+!!!Universal Resource Patch [2.4+]
+鸽组汉化
+Gigastructural Engineering & More [CN]
+外交权重调节
+自动建造超空间中继器
+! Universal Game Rules Patch
+Integrated Repeatable Technologies
